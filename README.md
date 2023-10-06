@@ -18,7 +18,7 @@ Desenvolvi um emocionante Jogo da Memória com base em "Hora de Aventura" usando
 
 ## Link Hospedado 🌐
 
-Você pode acessar o Quiz Interativo hospedado no GitHub Pages [aqui]().
+Você pode acessar o Quiz Interativo hospedado no GitHub Pages [aqui](https://eusoujao.github.io/Jogo-Da-Memoria/).
 
 ## Como Jogar 🕹️
 
